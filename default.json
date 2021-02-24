@@ -1,0 +1,16 @@
+[
+    {
+        "tag": "hoge",
+        "limit_bookmark_count": 2020,
+        "page_to_start_downloading": 1,
+        "last_access_artwork_id": 2020,
+        "skip": false
+    },
+    {
+        "tag": "huga",
+        "limit_bookmark_count": 2021,
+        "page_to_start_downloading": 4,
+        "last_access_artwork_id": 2021,
+        "skip": true
+    }
+]

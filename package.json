@@ -1,0 +1,30 @@
+{
+  "name": "pixiv-picture-downloader",
+  "version": "1.0.0",
+  "description": "get pixiv pictures",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikegami",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "@types/puppeteer": "^5.4.3",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^5.4.1",
+    "sync-request": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikesou0427/pixiv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikesou0427/pixiv/issues"
+  },
+  "homepage": "https://github.com/ikesou0427/pixiv#readme"
+}

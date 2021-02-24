@@ -7,6 +7,7 @@ pixivの画像を自動で収集するスクレイピングツールです。<br
 1.  clone後、main.tsのある階層で`npm update`を実行<br>
     tsの動く環境でしたら大体これで終わりです。
 2. default.jsonを編集
+3. .envにログインのためのpixivに登録したメールアドレスとパスワードを設定
 
 ### default.json (設定ファイル)について
 - tag <br>
